@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gson-2.8.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../gson-2.8.9.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/forms_rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
